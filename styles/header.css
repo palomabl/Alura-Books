@@ -123,7 +123,7 @@
         display: none;
     }
 
-    .opções__botão:checked ~ .lista-menu__item {
+    .opções__rotulo:checked ~ .opções__item {
         background: var(--azul-degrade);
         color: var(--branco);
     }
